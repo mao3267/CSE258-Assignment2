@@ -35,7 +35,8 @@ The dataset contains multiple waves of speed dating events with both pre-event e
 - ✅ **Baseline model**: Logistic Regression with max_iter=5000
   - Test accuracy: ~91%
   - Precision (match): 0.73
-  - Recall (match): 0.69-0.73
+  - Recall (match): 0.73
+  - F1-score (match): 0.73
   
 - ✅ **Feature selection**: Applied Recursive Feature Elimination (RFE)
   - Selected top 15 most important features
