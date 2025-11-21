@@ -112,7 +112,7 @@ CSE258-Assignment2/
 ## Usage
 
 ### Requirements
-```bash
+```
 pandas
 numpy
 scikit-learn
@@ -151,7 +151,8 @@ jupyter
 
 ## References
 - [Handling Imbalanced Data](https://medium.com/@dakshrathi/handling-imbalanced-data-key-techniques-for-better-machine-learning-6e33b466f8b7)
-- Scikit-learn documentation for RFE and classification models
+- [Scikit-learn RFE Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)
+- [Scikit-learn Classification Documentation](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
 ## License
 Educational project for CSE258 course assignment.
